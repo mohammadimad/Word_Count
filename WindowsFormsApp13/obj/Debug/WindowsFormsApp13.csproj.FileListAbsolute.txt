@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+C:\Users\HP\source\repos\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+C:\Users\HP\source\repos\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+C:\Users\HP\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+C:\Users\HP\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+C:\Users\HP\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
+C:\Users\HP\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.frmEnglish.resources
+C:\Users\HP\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.frmArabic.resources
+C:\Users\HP\source\repos\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.MainForm.resources
